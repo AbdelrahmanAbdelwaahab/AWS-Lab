@@ -14,7 +14,7 @@ Empower your ethical hacking journey by setting up a dynamic hacking lab in the 
 Open AWS Account: Log in 
 (1)Navigate to Services.
 (2) Select EC2: Click on EC2 to enter the realm where Kali Linux will come to life!: <br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/4e8f3569-cb9c-4771-8fae-6a63b8aff823" height="80%" width="80%" alt=Launching AWS, selecting services then EC2 services"/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt=Launching AWS, selecting services then EC2 services"/>
 <br />
 <br />
 Select the disk:  <br/>
