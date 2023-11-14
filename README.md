@@ -6,7 +6,6 @@ Unlock the world of ethical hacking with our step-by-step guide on configuring K
 Empower your ethical hacking journey by setting up a dynamic hacking lab in the cloud. This repository provides detailed instructions and scripts to seamlessly deploy Kali Linux on an AWS EC2 instance. Dive into the world of penetration testing and cybersecurity from anywhere, harnessing the flexibility and power of cloud computing.
 <br />
 
-
 <h2>Steps walk-through:Here's where the adventure begins</h2>
 
 <p align="center">
@@ -14,7 +13,7 @@ Empower your ethical hacking journey by setting up a dynamic hacking lab in the 
 Open AWS Account: Log in 
 (1)Navigate to Services.
 (2) Select EC2: Click on EC2 to enter the realm where Kali Linux will come to life!: <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/431387d6-ac2f-4d5c-bd96-7c94ecf975ad" height="80%" width="80%" alt="Login to AWS, navigate to services then click on EC2"/>
 <br />
 <br />
 Select the disk:  <br/>
