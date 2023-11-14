@@ -16,12 +16,15 @@ Open AWS Account: Log in <br />
 <img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/431387d6-ac2f-4d5c-bd96-7c94ecf975ad" height="80%" width="80%" alt="Login to AWS, navigate to services then click on EC2"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Once inside EC2, locate and click on "Launch Instance."  <br/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/79d4ba56-5017-4e24-8661-5ed0a53d2c4a" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Let's tailor your Kali Linux machine to your specifications:</h3>
+(1) Name Your Machine: Give your hacking lab a distinct identity by assigning it a name.<br/>
+(2) Search for Kali Linux: Type "kali linux" in the search box. <br/>
+(3) Select Free Tier Image: To keep things budget-friendly, opt for the free tier Amazon Machine Image (AMI) <br/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/9c6bb438-f5ee-4b80-85ef-6964b3194822" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
