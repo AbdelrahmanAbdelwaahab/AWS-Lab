@@ -7,20 +7,14 @@ Empower your ethical hacking journey by setting up a dynamic hacking lab in the 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
-
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Steps walk-through:Here's where the adventure begins</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+Open AWS Account: Log in 
+(1)Navigate to Services.
+(2) Select EC2: Click on EC2 to enter the realm where Kali Linux will come to life!: <br/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/4e8f3569-cb9c-4771-8fae-6a63b8aff823" height="80%" width="80%" alt=Launching AWS, selecting services then EC2 services"/>
 <br />
 <br />
 Select the disk:  <br/>
