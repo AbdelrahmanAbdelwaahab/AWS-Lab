@@ -22,10 +22,9 @@ Once inside EC2, locate and click on "Launch Instance."  <br/>
 <br />
 <h3>Let's tailor your Kali Linux machine to your specifications:</h3>
 
-
 (1) Name Your Machine: Give your hacking lab a distinct identity by assigning it a name.<br/>
 (2) Search for Kali Linux: Type "kali linux" in the search box and press "ENTER". <br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/1a619976-ff39-40c3-b5e5-f7007e78aa17" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/a33d444a-6bbd-4da8-a7cf-291d97144f72" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h3>Let's pinpoint Kali Linux in the AWS Marketplace</h3>
