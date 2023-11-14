@@ -1,9 +1,9 @@
-<h1>Active Directory Lab</h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Configuring Kali Linux as an EC2 instance in AWS</h1>
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Unlock the world of ethical hacking with our step-by-step guide on configuring Kali Linux as an EC2 instance in AWS! 🌐🔐
+
+Empower your ethical hacking journey by setting up a dynamic hacking lab in the cloud. This repository provides detailed instructions and scripts to seamlessly deploy Kali Linux on an AWS EC2 instance. Dive into the world of penetration testing and cybersecurity from anywhere, harnessing the flexibility and power of cloud computing.
 <br />
 
 
