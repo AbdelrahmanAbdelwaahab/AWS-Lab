@@ -51,7 +51,7 @@ Once inside EC2, locate and click on "Launch Instance."  <br/>
 <br />
 
 Remember, guard this key pair like the One Ring! Store it securely as it's your ticket to connect with your Kali machine via SSH. Losing it could be as perilous as losing the One Ring to Mordor.
-Sanitization complete:   <br/>
+  <br/>
 <img src="https://www.denofgeek.com/wp-content/uploads/2020/03/Lord-of-The-Rings-Amazon.jpg?resize=768%2C432" height="80%" width="80%" alt="The Ring inspired from Lord of The Rings"/>
 <br />
 <br />
