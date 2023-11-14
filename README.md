@@ -13,7 +13,7 @@ Empower your ethical hacking journey by setting up a dynamic hacking lab in the 
 Open AWS Account: Log in <br />
 (1)Navigate to Services. <br />
 (2) Select EC2: Click on EC2 to enter the realm where Kali Linux will come to life!: <br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/431387d6-ac2f-4d5c-bd96-7c94ecf975ad" height="80%" width="80%" alt="Login to AWS, navigate to services then click on EC2"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/419cef36-830f-4838-a813-4519bf6f5746" height="80%" width="80%" alt="Login to AWS, navigate to services then click on EC2"/>
 <br />
 <br />
 Once inside EC2, locate and click on "Launch Instance."  <br/>
@@ -22,23 +22,25 @@ Once inside EC2, locate and click on "Launch Instance."  <br/>
 <br />
 <h3>Let's tailor your Kali Linux machine to your specifications:</h3>
 
+
 (1) Name Your Machine: Give your hacking lab a distinct identity by assigning it a name.<br/>
 (2) Search for Kali Linux: Type "kali linux" in the search box and press "ENTER". <br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/1b9d13fa-c64c-4e98-b776-381e3ad465b1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/1a619976-ff39-40c3-b5e5-f7007e78aa17" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <h3>Let's pinpoint Kali Linux in the AWS Marketplace</h3>
 (1) Explore AWS Marketplace AMIs: Click on "AWS Marketplace AMIs"  <br/>
 (2) Locate and Select Kali Linux <br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/584a0876-9539-45b6-9c1d-cced5b9ce63e" height="80%" width="80%" alt="Searching for Kali Linux in the search box"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/1043f93e-c898-4e0e-906d-ba8650529fe8" height="80%" width="80%" alt="Searching for Kali Linux in the search box"/>
 <br />
 <br />
+
 
 <h3> By selecting Kali we will get back automatically to the configuration page, so lets resume our configuration baking </h3>
 (1)Adjust Instance Type: Opt for the T2 Micro instance type image -it's within the free tier, aligning perfectly with your budget-friendly hacking lab. 
 <br />
 (2)Click on "Create Key Pairs".<br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/d014c869-1698-4c95-b5d0-0e11833ab937" height="80%" width="80%" alt="Adjusting instance type to t2 micro to save the costs of AWS"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/3c58e40e-a69e-4ed9-ae54-31b27b7702cb" height="80%" width="80%" alt="Adjusting instance type to t2 micro to save the costs of AWS"/>
 <br />
 <br />
 <h3> Name Your Key Pair </h3>
@@ -68,7 +70,7 @@ Sanitization complete:   <br/>
 (1) Browse from EC2 Service: Navigate to the EC2 service to find your freshly baked Kali Linux instance. <br />
 (2) Ready to Use: Your instance is now fully operational and ready for your ethical hacking experiments! <br />
 A friendly reminder: To keep your hacking lab budget-friendly, don't forget to stop the instance when not in use. Happy ethical hacking! 🌐💻<br/>
-<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/c904a50c-95d2-4bf0-ac01-c727c170c2f5" height="80%" width="80%" alt="Acess your Kali machine, and keeping things budget friendly"/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/AWS-Lab/assets/150354821/1da1e153-66ef-49e5-bd82-528033b982a8" height="80%" width="80%" alt="Acess your Kali machine, and keeping things budget friendly"/>
 </p>
 
 <!--
