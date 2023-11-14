@@ -27,8 +27,10 @@ Once inside EC2, locate and click on "Launch Instance."  <br/>
 <img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/9c6bb438-f5ee-4b80-85ef-6964b3194822" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<h3>Let's pinpoint Kali Linux in the AWS Marketplace</h3>
+(1) Explore AWS Marketplace AMIs: Click on "AWS Marketplace AMIs"  <br/>
+(2) Locate and Select Kali Linux <br/>
+<img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/584a0876-9539-45b6-9c1d-cced5b9ce63e" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
