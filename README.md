@@ -60,7 +60,7 @@ Remember, guard this key pair like the One Ring! Store it securely as it's your 
 Back to Configuration: After creating the key pair, you'll be automatically redirected to the configuration page. <br />
 Launch Instance: Click on "Launch Instance" to initiate the construction of your Kali Linux machine. <br />
 Now, sit back, relax, and give it a moment. Your hacking lab is in the making! 🚀💻
-Sanitization complete:   <br/>
+<br/>
 <img src="https://github.com/AbdelrahmanAbdelwaahab/Anythinglabb/assets/150354821/0e11ddf5-3810-45f7-82a5-14de375c1679" height="80%" width="80%" alt="Creating the instance"/>
 <br />
 <br />
